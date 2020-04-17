@@ -1,0 +1,40 @@
+Tutorial 1.0
+To locate the git folder use "cd SMS_Notification_Engine"
+
+Tutorial 2.0
+To see all of the available GIT COMMAND use "git --help"
+
+Tutorial 3.0
+to clone the repositor Use "git clone <link of github>
+ex. git clone https://github.com/mendiolanivelle/SMS_Notification_Engine
+
+Tutorial 4.0
+to pull changes in github use "git pull" then log in your github account
+
+Tutorial 5.0
+to push changes in github use "git push" then log in your github account
+
+Tutorial 6.0
+to commit change in github use "git commit" then write your changes then press "CTRL + X"
+
+scenario case
+
+if you want to CLONE THE FILES
+
+refer to "Tutorial 3.0"
+
+
+if you want to PULL THE FILES
+
+locate the git folder refer to "Tutorial 1.0"
+
+Pull the new changes refer to "Tutorial 4.0"
+
+
+if you want to PUSH THE FILES AFTER EDITING
+
+locate the git folder refer to "Tutorial 1.0"
+
+Commit your changes refer to "Tutorial 6.0"
+
+Push your changes refer to "Tutorial 5.0"
